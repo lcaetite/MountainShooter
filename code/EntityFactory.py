@@ -24,5 +24,5 @@ class EntityFactory:
             case 'Enemy1':
                 return Enemy('Enemy1', (WIN_WIDTH + 10, 200))
             case 'Enemy2':
-                return Enemy('Enemy2', (WIN_WIDTH + 10, 200))
+                return Enemy('Enemy2', (WIN_WIDTH + 10, 180))
 
